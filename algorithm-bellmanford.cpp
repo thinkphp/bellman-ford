@@ -1,7 +1,5 @@
 /**
- *  Author           -> Adrian Statescu <mergesortv@gmail.com> <http://thinkphp.ro>
- *  Operating System -> Ubuntu
- *  Environments     -> Wim
+ *  Author           -> Adrian Statescu <mergesortv@gmail.com> <http://thinkphp.ch>
  *  Compile          -> g++ -std=c++11 algorithm-bellmanford.cpp -o bell
  */
 #include <fstream>
